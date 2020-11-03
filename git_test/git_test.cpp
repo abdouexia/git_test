@@ -12,4 +12,5 @@ int main() {
 	cout << "Entre un nombre: " << endl; //sortie sur la console
 	cin >> nb;//attente de la saisie d'informations par l'utilisateur
 	cout << "Le nombre: " << nb << endl;//on affiche le nombre
+	cout << "Le nombre: " << nb << endl;//on affiche le nombre
 }
